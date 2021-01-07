@@ -1,0 +1,25 @@
+# Postgresql Hoizontal 
+
+Source : Postgresql Hoizontal web link system cloud-hash file setup for user path system. Connection for web-link 
+
+Host
+**2-**-71-***-99.com****-1.****onaws.com
+
+Database
+d6ebund1*****jko
+
+User
+**gop**ny**fgx
+
+Port
+5432
+
+Password
+9e6bbf55***d934***18753bc0***7b6**27bf3b97a88327f443793261e116a3
+
+URI : 
+postgres://azgopwrnyyzfgx:9e6bbf55a9fd93439718753bc039b7b68527bf3b97a88327f443793261e116a3@ec2-52-71-107-99.compute-1.amazonaws.com:5432/d6ebund195djko
+
+Heroku CLI : 
+heroku pg:psql postgresql-horizontal-00506 --app cloud-hash
+
