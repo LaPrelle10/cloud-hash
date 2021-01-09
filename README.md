@@ -8,3 +8,6 @@ being more or less a verison which users see a funing amount limitaions are base
 any limits you'll have a better success rate to mining hashrate. Filled pools should be minied from at a low TH PH rate of hash for smaller blocksize 
 reducing diffcultly limiting cpu burnouts on your processor rather than your gpu mining.
 
+Cryptocurrency Coins will be the (BTC : Bitcoin) (ETH : Ethereum) (LTC : Litcoin) (DASH : DASH) Wallets for these coins can be found on other apps
+or websites these can also be made here on the cryptocurrency  digial coins for "cloud hash"
+
