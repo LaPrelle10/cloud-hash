@@ -1,0 +1,25 @@
+# Data Mining System
+
+# Intel. 
+  To create a model, the algorithm first analyzes the data you provide, looking for specific types of patterns or trends. 
+ The algorithm uses the results of this analysis over many iterations to find the optimal parameters for creating the mining model. 
+ These parameters are then applied across the entire data set to extract actionable patterns and detailed statistics.
+ 
+1. A set of clusters that describe how the cases in a dataset are related.
+
+2. A decision tree that predicts an outcome, and describes how different criteria affect that outcome.
+
+3. A mathematical model that forecasts sales.
+
+4. A set of rules that describe how products are grouped together in a transaction, and the probabilities that products are purchased together.
+The algorithms provided in SQL Server Data Mining are the most popular, well-researched methods of deriving patterns from data. 
+To take one example, K-means clustering is one of the oldest clustering algorithms and is available widely in many different tools and with many 
+different implementations and options. However, the particular implementation of K-means clustering used in SQL Server Data Mining was developed by Microsoft
+Research and then optimized for performance with Analysis Services. All of the Microsoft data mining algorithms can be extensively customized and are fully
+programmable, using the provided APIs. You can also automate the creation, training, and retraining of models by using the data mining components in
+Integration Services.
+
+You can also use third-party algorithms that comply with the OLE DB for Data Mining specification, or develop custom algorithms that can be 
+registered as services and then used within the SQL Server Data Mining framework.
+
+Mining data building a cluster with Banmdwidth and cpu mining will be easy. To work with rather than a gpu
