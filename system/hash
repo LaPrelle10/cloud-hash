@@ -1,0 +1,5 @@
+# HASH 
+
+File folder specific for file hash storage logs. Logs are a set of blockchain hash algorithms set from SHA-256 , X11 , Ethash mining algorithms 
+machines. A checksum of "SHA256" encrypted log bit , pathway for Linux "sha256sum /path/to/file" , MAC is "shasum -a 256 /path/to/file" , Windows CMD is 
+"CertUtil -hashfile C:\path\to\file SHA256" and Powershell version is "Get-FileHash C:\path\to\file -Algorithm SHA256" for setting up file hash.
